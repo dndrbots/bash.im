@@ -1,6 +1,6 @@
 {
   "name": "bash.im",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to get random quote from bash.im",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/nitreojs/bash.im#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2",
     "iconv-lite": "^0.4.24",
     "node-fetch": "^2.3.0"
   }
