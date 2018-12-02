@@ -1,0 +1,28 @@
+{
+  "name": "bash.im",
+  "version": "1.0.0",
+  "description": "A package to get random quote from bash.im",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bashim",
+    "bash.im"
+  ],
+  "author": "nitrojs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitreojs/bash.im.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nitreojs/bash.im/issues"
+  },
+  "homepage": "https://github.com/nitreojs/bash.im#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.24",
+    "node-fetch": "^2.3.0"
+  }
+}
